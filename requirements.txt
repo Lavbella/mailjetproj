@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+tqdm
+jinja2
+markupsafe
+python-docx
+docxtpl
+mailjet-rest
+importlib-metadata
